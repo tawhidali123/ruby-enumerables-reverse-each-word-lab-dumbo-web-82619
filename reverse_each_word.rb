@@ -1,5 +1,9 @@
 def reverse_each_word(string)
   break_down = string.split(" ")
-  return break_down
+  
+  break_down.map{
+    |n|
+    
+  }
  
 end
