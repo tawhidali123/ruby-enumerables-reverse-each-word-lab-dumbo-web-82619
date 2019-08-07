@@ -6,7 +6,7 @@ def reverse_each_word(string)
     reverse = n.reverse
     holder.push(reverse)
   }
-  join = holder.join("")
+  join = holder.join(" ")
   return join
   
  
