@@ -4,9 +4,4 @@ def reverse_each_word(string)
   #array.pop(break_down.reverse)
   #array.join 
   
-  break_down = string.reverse
-  break_down.split("")
-  array = []
-  array.pop(break_down)
-  array.join
 end
