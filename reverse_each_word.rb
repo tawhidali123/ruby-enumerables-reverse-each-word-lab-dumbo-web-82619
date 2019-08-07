@@ -4,5 +4,6 @@ def reverse_each_word(string)
   string.size.times {
     array.pop(break_down)
   }
+  array.join
   
 end
